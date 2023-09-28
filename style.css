@@ -92,7 +92,7 @@ body {
   border: 1px solid black;
   display: grid;
   grid-template-columns: 0.15fr 1.5fr 0.15fr;
-  grid-template-rows: auto;
+  grid-template-rows: 0.01fr auto 1.5fr 0.01fr 0.01fr;
 }
 .block div {
   border: 1px solid #000;
